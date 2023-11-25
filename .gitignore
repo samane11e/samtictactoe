@@ -2,5 +2,4 @@
 *.avm
 *.prover
 *.verifier
-outputs/
-s
+outputs

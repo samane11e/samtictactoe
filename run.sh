@@ -18,7 +18,7 @@ echo "
 ###############################################################################
 "
 leo run new || exit
-----------------------tttttttttrrrrsss
+trerrrrrrrrttyhgfdsswqaazxcvb;ll][pokjhgffgbvccccxss
 # Have the Player 1 make a move.
 echo "
 ###############################################################################

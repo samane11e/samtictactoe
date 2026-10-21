@@ -19,7 +19,7 @@ echo "
 "
 leo run new || exit
 
-trerrrrrrrrttyhgfdsyssx
+trerrrrrrrrttyhgfdsy
 
 
 # Have the Player 1 make a move.
